@@ -4,5 +4,5 @@ version = "0.1.0"
 description = "NEA catalog pipeline, resource visualizations, and asteroid-mining cost model"
 readme = "README.md"
 requires-python = ">=3.13"
-license = { text = "MIT" }
+license = { text = "GPL-3.0-or-later" }
 dependencies = []

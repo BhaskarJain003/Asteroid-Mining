@@ -153,7 +153,7 @@ Online collaborators are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for set
 
 ## License
 
-This project is open source under the [MIT License](LICENSE).
+This project is open source under the [GNU General Public License v3.0](LICENSE) (GPL-3.0). You may use, modify, and distribute it under the terms of that license; derivative works must also be licensed under GPL-3.0.
 
 ---
 
