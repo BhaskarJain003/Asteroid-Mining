@@ -153,7 +153,7 @@ Online collaborators are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for set
 
 ## License
 
-Add a license file if you plan to open-source this repo publicly.
+This project is open source under the [MIT License](LICENSE).
 
 ---
 
