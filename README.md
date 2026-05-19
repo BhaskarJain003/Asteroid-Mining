@@ -145,6 +145,12 @@ uv run python cost_model.py
 
 ---
 
+## Contributing
+
+Online collaborators are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, what to commit, and the pull request workflow.
+
+---
+
 ## License
 
 Add a license file if you plan to open-source this repo publicly.
