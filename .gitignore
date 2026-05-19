@@ -1,0 +1,86 @@
+# --- Python environments ---
+.venv/
+venv/
+env/
+.env/
+
+# --- Python bytecode / caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# --- Node / front-end (if added later) ---
+node_modules/
+
+# --- Build / packaging ---
+build/
+dist/
+out/
+*.egg-info/
+.eggs/
+
+# --- Logs ---
+*.log
+
+# --- Archives ---
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# --- Large / generated data (regenerate via make_all.py and pipeline scripts) ---
+*.csv
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.parquet
+*.feather
+
+# --- Media ---
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# --- CAD / mesh / simulation outputs ---
+*.stl
+*.obj
+*.vtk
+*.vtu
+*.foam
+*.msh
+
+# --- Generated plot / report outputs (keep the .py drivers at repo root) ---
+composition_plots/
+pre_plotting/
+cost_model_output/
+resource_slider_output/
+
+# --- Generated HTML dashboards (if written outside output dirs) ---
+interactive_resource_slider_plot.html
+cost_model_tier1.html
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
